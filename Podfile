@@ -6,9 +6,6 @@ target '1.3.18_Assignment' do
   use_frameworks!
 
   # Pods for 1.3.18_Assignment
-  pod 'GoogleMaps'
-  pod 'GooglePlaces'
-  pod 'GooglePlacePicker'
   
   target '1.3.18_AssignmentTests' do
     inherit! :search_paths
